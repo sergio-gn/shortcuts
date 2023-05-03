@@ -6,5 +6,5 @@ Every Repetitive Occurrencies CTRL + SHIFT + L<br/>
 Whole Line CTRL + L<br/>
 Every Line SHIFT + ALT + I<br/>
 Quote List CTRL + SHIFT + '<br/>
-Select Blank Lines ^$\n<br/>
+Select Blank Lines ^$\n<br/>    - You have to click on "Use Regular Expression (Alt + R) inside the CTRL + F feature on VScode
 Auto Indent CTRL + ]
