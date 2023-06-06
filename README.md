@@ -10,3 +10,4 @@ Quote List CTRL + SHIFT + '<br/>
 Select Blank Lines ^$\n<br/>    - You have to CTRL + F -> CTRL + H then click on "Use Regular Expression (Alt + R) inside the CTRL + F feature on VScode
 Auto Indent CTRL + ]
 Quote List (Extension) CTRL + ALT + '
+Select lines same place  Click + ALT + ↓
