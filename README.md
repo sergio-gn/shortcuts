@@ -14,3 +14,5 @@
 * Auto Indent CTRL + ]
 * Quote List (Extension) CTRL + ALT + '
 * Select lines same place  Click + ALT + ↓
+
+![Shortcuts](shorcut.gif)
