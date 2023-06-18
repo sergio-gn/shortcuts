@@ -1,5 +1,5 @@
 # shortcuts
-## Shortcuts that I use the most on daily basis
+## Shortcuts that I use the most on a daily basis
 
 * Select Repetitive Element CTRL + D
 * Every Repetitive Occurrencies CTRL + SHIFT + L
@@ -15,4 +15,4 @@
 * Quote List (Extension) CTRL + ALT + '
 * Select lines same place  Click + ALT + ↓
 
-![Shortcuts](shorcut.gif)
+![Shortcuts](https://raw.githubusercontent.com/sergio-gn/shortcuts/main/shortcut.gif)
