@@ -14,5 +14,6 @@
 * Auto Indent CTRL + ]
 * Quote List (Extension) CTRL + ALT + '
 * Select lines same place  Click + ALT + ↓
+* Move Code Up or Down: Select Lines + ALT + ↑
 
 ![Shortcuts](https://raw.githubusercontent.com/sergio-gn/shortcuts/main/shortcut.gif)
